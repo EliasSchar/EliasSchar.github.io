@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.db305b2b.css","mappings":"AAAA,EACE,qBAAsB,CAGtB,2BAA+B,CAF/B,QAAS,CACT,SAEF","sources":["App.css"],"sourcesContent":["* {\r\n  box-sizing: border-box;\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: \"Sora\", sans-serif;\r\n}\r\n"],"names":[],"sourceRoot":""}
